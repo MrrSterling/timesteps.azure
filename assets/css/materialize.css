@@ -12431,7 +12431,7 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
 
 @font-face{
   font-family: "Noto Sans";
-  src: url("assets/font/noto-sans/NotoSans-regular.ttf") format("truetype");
+  src: url("assets/font/noto-sans/NotoSans-Regular.ttf") format("truetype");
   font-weight: 200; }
 
 html
@@ -12441,8 +12441,14 @@ html
 
 @font-face{
   font-family: "Noto Sans";
-  src: url("assets/font/noto-sans/notosans-Bold.ttf") format("truetype");
+  src: url("assets/font/noto-sans/NotoSans-Bold.ttf") format("truetype");
   font-weight: 700; }
+  
+  
+  @font-face{
+  font-family: "Noto Sans";
+  src: url("assets/font/noto-sans/NotoSans-Italic.ttf") format("truetype");
+  font-weight: 200; }
 
 .nav b
 {
