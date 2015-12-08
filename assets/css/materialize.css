@@ -12443,12 +12443,6 @@ html
   font-family: "Noto Sans";
   src: url("../font/noto-sans/NotoSans-Bold.ttf") format("truetype");
   font-weight: 700; }
-  
-  
-  @font-face{
-  font-family: "Noto Sans";
-  src: url("../font/noto-sans/NotoSans-Italic.ttf") format("truetype");
-  font-weight: 200; }
 
 .nav b
 {
