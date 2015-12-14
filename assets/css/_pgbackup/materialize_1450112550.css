@@ -1,5 +1,3 @@
-
-
 .materialize-red.lighten-5
 {
     background-color: #fdeaeb !important;
@@ -9234,7 +9232,7 @@ small
     line-height: 36px;
     outline: 0;
     padding: 0 2rem;
-    text-transform: none;
+    text-transform: uppercase;
     vertical-align: middle;
     -webkit-tap-highlight-color: transparent;
 }
@@ -9268,7 +9266,7 @@ small
 {
     text-decoration: none;
     color: #FFF;
-    background-color: #eeeeee;
+    background-color: #26a69a;
     text-align: center;
     letter-spacing: .5px;
     -webkit-transition: .2s ease-out;
