@@ -3361,8 +3361,7 @@ img.responsive-img, video.responsive-video
     min-height: 100%;
     -webkit-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
-    transform: translateX(-10%); }
-
+    transform: translateX(-50%); }
 
 .pin-top, .pin-bottom
 {
