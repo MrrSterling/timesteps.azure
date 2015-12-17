@@ -3363,6 +3363,7 @@ img.responsive-img, video.responsive-video
     transform: translate3d(0, 0, 0);
     transform: translateX(-10%); }
 
+
 .pin-top, .pin-bottom
 {
     position: relative;
@@ -9228,12 +9229,12 @@ small
 .btn, .btn-large, .btn-flat
 {
     border: none;
-    border-radius: 0px;
+    border-radius: 2px;
     display: inline-block;
     height: 36px;
     line-height: 36px;
     outline: 0;
-    padding: 0 0.5rem 0 0.7rem;
+    padding: 0 2rem;
     text-transform: none;
     vertical-align: middle;
     -webkit-tap-highlight-color: transparent;
@@ -9420,10 +9421,10 @@ button.btn-floating
 
 .dropdown-content li > a, .dropdown-content li > span
 {
-    font-size: 1rem;
-    color: #000000;
+    font-size: 1.2rem;
+    color: #26a69a;
     display: block;
-    padding: 0.25rem 1rem;
+    padding: 1rem 1rem;
 }
 
 /*!

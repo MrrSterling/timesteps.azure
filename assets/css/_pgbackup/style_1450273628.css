@@ -111,11 +111,12 @@ a.button-collapse.top-nav
 {
     margin-left: 5px;
     margin-right: 5px;
+    margin-bottom: 10px;
 }
 
 .dropdown-container
 {
-    margin-bottom: px;
+    margin-bottom: 20px;
 }
 
 .modal-container
