@@ -10875,7 +10875,7 @@ select
 
 .side-nav {
   position: fixed;
-  width:240px;
+  width:280px;
   left: -105%;
   top: 0;
   margin: 0;
@@ -10887,6 +10887,7 @@ select
   z-index: 999;
   overflow-y: auto;
   will-change: left; }
+
 
 .side-nav.right-aligned
 {

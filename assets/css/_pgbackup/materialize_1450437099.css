@@ -3269,7 +3269,7 @@ i.left
 i.right
 {
     float: right;
-    margin-left: 5px;
+    margin-left: 15px;
 }
 
 i.tiny
@@ -3339,7 +3339,7 @@ img.responsive-img, video.responsive-video
 {
     position: relative;
     overflow: hidden;
-    height: 350px;
+    height: 500px;
 }
 
 .parallax
@@ -4010,6 +4010,13 @@ span.badge.new:after
   font-weight: normal;
   font-style: normal; }
 
+i
+{
+    line-height: inherit;
+    background-color: #5A8A00;
+    color: #5A8A00;
+}
+
 [class^="mdi-"], [class*=" mdi-"]
 {
     font-family: "Material-Design-Icons";
@@ -4024,7 +4031,6 @@ span.badge.new:after
     background-color: rgba(0, 0, 0, 0);
     overflow: auto;
     position: relative;
-    color: #5A8A00 !important;
 }
 
 .mdi-action-3d-rotation:before
@@ -9227,11 +9233,10 @@ small
     height: 36px;
     line-height: 36px;
     outline: 0;
+    padding: 0 0.5rem 0 0.7rem;
     text-transform: none;
+    vertical-align: middle;
     -webkit-tap-highlight-color: transparent;
-    padding-left: 0.7rem;
-    padding-right: 0.5rem;
-    padding-top: 0;
 }
 
 .btn.disabled, .disabled.btn-large, .btn-floating.disabled, .btn-large.disabled, .btn:disabled, .btn-large:disabled, .btn-large:disabled, .btn-floating:disabled
@@ -9255,7 +9260,7 @@ small
 
 .btn i, .btn-large i, .btn-floating i, .btn-large i, .btn-flat i
 {
-    font-size: 0.9rem;
+    font-size: 1.3rem;
     line-height: inherit;
 }
 
@@ -9751,9 +9756,7 @@ a.waves-effect .waves-ripple
 
 .side-nav .collapsible-body li a
 {
-    margin-left: 2rem;
-    margin-top: 0;
-    margin-bottom: 0;
+    margin: 0 1rem 0 2rem;
 }
 
 .collapsible.popout
@@ -10875,7 +10878,7 @@ select
 
 .side-nav {
   position: fixed;
-  width:240px;
+  width: 240px;
   left: -105%;
   top: 0;
   margin: 0;

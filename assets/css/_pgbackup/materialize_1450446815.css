@@ -9255,7 +9255,7 @@ small
 
 .btn i, .btn-large i, .btn-floating i, .btn-large i, .btn-flat i
 {
-    font-size: 0.9rem;
+    font-size: 0.8rem;
     line-height: inherit;
 }
 
@@ -9751,9 +9751,7 @@ a.waves-effect .waves-ripple
 
 .side-nav .collapsible-body li a
 {
-    margin-left: 2rem;
-    margin-top: 0;
-    margin-bottom: 0;
+    margin: 0 1rem 0 2rem;
 }
 
 .collapsible.popout
@@ -10875,7 +10873,7 @@ select
 
 .side-nav {
   position: fixed;
-  width:240px;
+  width: 240px;
   left: -105%;
   top: 0;
   margin: 0;
