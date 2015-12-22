@@ -1,2 +1,2 @@
-# mrrsterling.github.io
-WebsiteTS
+# timesteps.azure
+Time-steps Website hosted on Azure based on the Materialize framework
